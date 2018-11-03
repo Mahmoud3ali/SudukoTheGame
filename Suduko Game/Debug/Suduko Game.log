@@ -1,0 +1,7 @@
+﻿  Solver.cpp
+  Main.cpp
+  Board Generator.cpp
+  Generating Code...
+sfml-main-d.lib(MainWin32.cpp.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'sfml-main-d.lib(MainWin32.cpp.obj)' or at 'C:\Users\MostafaNegmElDeen\Desktop\Suduko Game\Debug\vc140.pdb'; linking object as if no debug info
+  Suduko Game.vcxproj -> C:\Users\MostafaNegmElDeen\Desktop\Suduko Game\Debug\Suduko Game.exe
+  Suduko Game.vcxproj -> C:\Users\MostafaNegmElDeen\Desktop\Suduko Game\Debug\Suduko Game.pdb (Full PDB)
